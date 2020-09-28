@@ -1,0 +1,17 @@
+{
+    "name": "Ndunya/Contactform",
+    "description": "Sample Contact form for Laravel",
+    "authors": [
+        {
+            "name": "wilsonundrix",
+            "email": "wilsonundrix@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ndunya\\Contactform": "src/"
+        }
+    }
+}
